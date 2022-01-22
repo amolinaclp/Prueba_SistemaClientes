@@ -1,1 +1,0 @@
-Creado solo para que las carpetas se suban a git como en el paso 2, desde windows, no me las detectaba, pero metiendo el txt si lo hace
